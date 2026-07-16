@@ -75,8 +75,13 @@ body {
 
 .button-clear,
 .button-backspace {
-  background: #374151;
-  color: var(--muted);
+  background: #ef4444;
+  color: #fef2f2;
+}
+
+.button-clear:hover,
+.button-backspace:hover {
+  background: #dc2626;
 }
 
 .button-operator {
