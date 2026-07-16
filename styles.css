@@ -18,7 +18,7 @@ body {
   display: grid;
   place-items: center;
   font-family: Inter, system-ui, sans-serif;
-  background: radial-gradient(circle at top, #3b82f6 0%, #111827 45%);
+  background: red;
   color: var(--text);
 }
 
